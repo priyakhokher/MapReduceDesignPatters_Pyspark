@@ -15,4 +15,4 @@ some_number:int, type:chararray,birth_year:int,some_number2:int);
 
 
 grouped_data = group A by birth_year;
-describe group_data;
+DUMP group_data;
